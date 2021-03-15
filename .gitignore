@@ -1,4 +1,6 @@
 /target/
+/doc/
 /.classpath
 /.project
-/.settings/
+.settings
+.idea/
